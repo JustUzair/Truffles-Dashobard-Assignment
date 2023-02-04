@@ -2,6 +2,10 @@
 
 This is an internship assignment, Truffles dashboard where I have to create a dashboard frontend using tailwind and Next.js
 
+## Deployed URL
+
+Site Live at : [Vercel](https://truffles-dashobard-assignment.vercel.app/)
+
 ## URL routes for this website
 
 / - Home page / dashboard page
