@@ -8,8 +8,9 @@ Site Live at : [Vercel](https://truffles-dashobard-assignment.vercel.app/)
 
 ## URL routes for this website
 
-/ - Home page / dashboard page
-/profile - profile page where all the inputs related to users and their business is situated
+"/" - dashboard page
+
+"/profile" - profile page where all the inputs related to users and their business is situated
 
 ## Screenshots
 
