@@ -1,3 +1,18 @@
+# Introduction
+
+This is an internship assignment, Truffles dashboard where I have to create a dashboard frontend using tailwind and Next.js
+
+## URL routes for this website
+
+/ - Home page / dashboard page
+/profile - profile page where all the inputs related to users and their business is situated
+
+## Screenshots
+
+![Dashboard page](/Screenshots/1.JPG?raw=true "Dashboard page")
+![User Info page](/Screenshots/2.JPG?raw=true "User Info page")
+![Business Info page](/Screenshos/3.JPG?raw=true "Business Info page")
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
