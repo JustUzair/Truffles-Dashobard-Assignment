@@ -11,7 +11,7 @@ This is an internship assignment, Truffles dashboard where I have to create a da
 
 ![Dashboard page](/Screenshots/1.JPG "Dashboard page")
 ![User Info page](/Screenshots/2.JPG "User Info page")
-![Business Info page](/Screenshos/3.JPG "Business Info page")
+![Business Info page](/Screenshots/3.JPG "Business Info page")
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
